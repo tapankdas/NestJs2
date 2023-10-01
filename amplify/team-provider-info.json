@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nestjs2-dev-02649-authRole",
+      "UnauthRoleArn": "arn:aws:iam::804192854550:role/amplify-nestjs2-dev-02649-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::804192854550:role/amplify-nestjs2-dev-02649-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-nestjs2-dev-02649-deployment",
+      "UnauthRoleName": "amplify-nestjs2-dev-02649-unauthRole",
+      "StackName": "amplify-nestjs2-dev-02649",
+      "StackId": "arn:aws:cloudformation:us-east-2:804192854550:stack/amplify-nestjs2-dev-02649/4924a3d0-608c-11ee-8d41-06bb9f6840a3",
+      "AmplifyAppId": "d2o82rfp9699lc"
+    }
+  }
+}
